@@ -5,7 +5,6 @@ Welcome to the **Mental Health Chat Platform**, a real-time chat application bui
 ## 🚀 Live Demo
 🔗 **[Mental Health Chat Platform](https://mental-health-afkm.onrender.com/)**
 
-> **Note:** Render's free tier automatically shuts down after 15 minutes of inactivity. The first request after reactivation may experience a slight delay.
 
 ---
 
